@@ -9,3 +9,15 @@ body {
 h1, h2, p {
 text-align: center;
 }
+a {
+  color: FFFFFF;
+}
+a:visited {
+  color: FFFFFF;
+}
+a:hover {
+  color: F5F5F5;
+}
+a:active {
+  color: F5F5F5;
+}
