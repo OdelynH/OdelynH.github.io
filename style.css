@@ -22,7 +22,7 @@ a:active {
   color: #F5F5F5;
 }
 
-h3 {
+h3, p {
    display: flex;
    justify-content: space-around;
 }
